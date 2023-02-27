@@ -2,7 +2,7 @@
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-To answer the first two questions as one, having a module to call back to as a basis for other work reduces time spent writing code and potential errors. Code is meant for the reader. Therefore, the more the code is optizimed and maintainable, the easier it is for the reader to understand and use. By making the CRUD Python module adaptable, it can be use in the future with other work.
+To answer the first two questions as one, having a module to call back to as a basis for other work reduces time spent writing code and potential errors. Code is meant for the reader. Therefore, the more the code is optizimed and maintainable, the easier it is for the reader to understand and use. By making the CRUD Python module adaptable, it can be used in the future with other work.
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
