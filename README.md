@@ -1,4 +1,4 @@
-##CS 340 Dashboard Specifications Document
+## CS 340 Dashboard Specifications Document
 
 ### Client Background
 Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained,
@@ -32,12 +32,10 @@ you as the creator of the dashboard.
 
 ### Required Dashboard Widgets
 Grazioso Salvare is requiring the following widgets for the dashboard interface:
-• Interactive filter options (buttons, drop-downs) to filter the Austin Animal Center Outcomes
-data set by:
-○ Water Rescue
-○ Mountain or Wilderness Rescue
-○ Disaster Rescue or Individual Tracking
-○ Reset (returns all widgets to their original, unfiltered state)
-• A data table which dynamically responds to the filtering options
-• A geolocation chart and a second chart of your choice (such as a pie chart) that dynamically
-respond to the filtering options
+Interactive filter options (buttons, drop-downs) to filter the Austin Animal Center Outcomes data set by:
+1. Water Rescue
+2. Mountain or Wilderness Rescue
+3. Disaster Rescue or Individual Tracking
+4. Reset (returns all widgets to their original, unfiltered state)
+5. A data table which dynamically responds to the filtering options
+6. A geolocation chart and a second chart of your choice (such as a pie chart) that dynamically respond to the filtering options
